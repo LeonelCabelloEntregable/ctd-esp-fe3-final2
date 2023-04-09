@@ -1,0 +1,25 @@
+footer{    
+    padding: 5px;
+    background-color: #FFFFFF;
+    color: #2F1C6A;
+    width: 100vw;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.400);
+    display: flex;
+}
+footer > img{
+    width: 200px;
+    margin: 0;
+  }
+
+  .footer-dark{
+    background-color: #121212;
+    display: flex;
+  
+}
+
+.footer-dark .link{
+    color: #a193bb ;
+}
+
+
+

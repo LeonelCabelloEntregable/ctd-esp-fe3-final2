@@ -1,0 +1,44 @@
+.detail{
+border: 5px solid black;
+border-radius: 20px;
+background-color: rgb(175, 217, 175);
+color: white;
+justify-content: center;
+text-align: center;
+margin: 10px 10px 100px 10px;
+padding: 10px 10px 10px 10px;
+width: 250px;
+height: 400px;
+margin: auto;
+display: flexbox;
+position: relative;
+top: 100px;
+
+}
+
+.link{
+color: white;
+display: flex;
+margin: 5px 50px;
+font-size: 120%;
+justify-content: center;
+text-align: center;
+}
+
+.addfavorite{
+background-color: rgb(175, 217, 175);
+border-radius: 7px;
+border-style:none; 
+}
+
+
+.delete{
+background-color: rgb(175, 217, 175);
+border-radius: 7px;
+border-style:none; 
+}
+
+
+.detail-dark {
+background-color: #121212;
+}

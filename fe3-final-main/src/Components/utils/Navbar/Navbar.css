@@ -1,0 +1,36 @@
+nav{
+    margin: 0;
+    padding: 20px;
+    width: 97.3%;
+    background-color: #FFFFFF;
+    color: #2F1C6A;
+    position: fixed ;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.400);
+}
+
+
+.link{
+color: #2F1C6A;
+display: flex;
+margin: 5px 50px;
+font-size: 120%;
+}
+
+.button{
+    background-color: brown;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    float:left;
+    margin-left: 60%;
+}
+
+.nav-dark{
+    background-color: #121212 ;
+}
+
+.nav-dark .link{
+    color: #a193bb ;
+}
